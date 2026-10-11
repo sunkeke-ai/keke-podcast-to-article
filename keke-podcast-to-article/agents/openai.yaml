@@ -1,4 +1,0 @@
-interface:
-  display_name: "可可｜播客对谈精华改稿"
-  short_description: "YouTube/小宇宙转中文精华长文，首章配图确认后逐章生成"
-  default_prompt: "使用 $keke-podcast-to-article，获取这个YouTube或小宇宙链接的可靠文字稿，整理成中文精华长文，先生成第一章节完整内容的配图，等我确认后再为其余各章节配图。"
